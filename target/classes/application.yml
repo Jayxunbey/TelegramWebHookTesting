@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: TelegramWebHookTesting
+
+server:
+  port: 8081
+
+
+telegram:
+  bot:
+    name: jay_web_hook_bot
+    token: 7406523401:AAG7L44xv8Gg6UOpVMAYA70-5Gp4U2Z-mfM
+    webhook-url: https://tiger-vast-ram.ngrok-free.app
